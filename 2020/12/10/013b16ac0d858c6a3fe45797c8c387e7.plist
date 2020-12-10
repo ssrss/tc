@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<!-- 此文件是直接打开展示的 -->
+<dict>
+ <key>items</key>
+ <array>
+  <dict>
+   <!-- KEY 测试后建议缩短 ，目前都使用https-->
+   <key>assets</key>
+   <array>
+    <dict>
+      <!-- KEY 测试后建议缩短 ，目前都使用https-->
+     <key>kind</key>
+     <string>software-package</string>
+     <key>url</key>
+     <!-- http或者https链接的ipa文件地址 -->
+     <string> https://iosapps.itunes.apple.com/itunes-assets/Purple114/v4/e7/6d/e2/e76de289-9fb2-5c8f-5970-3c1cc22b788c/pre-thinned6043368560856705334.thinned.signed.dpkg.ipa?accessKey=1607789431_7553084080645403342_%2FCREdl4T1f4cIKyer%2FQmkuFiiSLA078O1eKvLfkbzZLDrr%2FY7TTrVn%2BfeTbiV2o1QpCCr%2BIsqV48ZR%2BtW6jNtNgC6yUDa1mkvYgyV51ZqUt%2FZ6pcLqTmAYff5jxj8lfJpzaLwO3kmTA9%2FElqh44iGrLdZ7ng9WeLjkcPjbByZgfXXN0mmpE36ltlhXqjfJ2s27kVt%2FxOUCjcPByY6JmUkQ%3D%3D </string>
+    </dict>
+    <dict>
+     <!--KEY 测试后建议缩短-->
+     <key>kind</key>
+     <string>full-size-image</string>
+     <key>needs-shine</key>
+     <true/>
+     <key>url</key>
+     <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
+     <string>/logo_im.png</string>
+    </dict>
+    <dict>
+     <key>kind</key>
+     <string>display-image</string>
+     <key>needs-shine</key>
+     <true/>
+     <key>url</key>
+     <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
+     <string>/logo_im.png</string>
+    </dict>
+   </array>
+   <key>metadata</key>
+   <dict>
+    <key>bundle-identifier</key>
+    <!-- BundleID，就是新建app时的包名 -->
+    <string>未知包名</string>
+    <key>bundle-version</key>
+    <!-- 版本号-必变 -->
+    <string>2.0.8</string>
+    <key>kind</key>
+    <string>software</string>
+    <key>title</key>
+    <!-- 安装app时的提示信息\拼写简单 -->
+    <string>熊猫吃短信-垃圾短信过滤</string>
+   </dict>
+  </dict>
+ </array>
+</dict>
+</plist>
