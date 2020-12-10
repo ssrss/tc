@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<!-- 此文件是直接打开展示的 -->
+<dict>
+ <key>items</key>
+ <array>
+  <dict>
+   <!-- KEY 测试后建议缩短 ，目前都使用https-->
+   <key>assets</key>
+   <array>
+    <dict>
+      <!-- KEY 测试后建议缩短 ，目前都使用https-->
+     <key>kind</key>
+     <string>software-package</string>
+     <key>url</key>
+     <!-- http或者https链接的ipa文件地址 -->
+     <string> https://pro-file.xiaoheiban.cn/nkk/92479DBC-2146-471F-9F09-AF35AF4B508D.ipa?OSSAccessKeyId=STS.NUWB67Q4LTbZRTqGBFo4XbJSH&Expires=1607597895&Signature=eQ%2BQxBkrSNbgW7kF5Y9VC7Pfq5Q%3D&response-content-disposition=attachment%3Bfilename*%3DUTF-8%27%27%25E7%2586%258A%25E7%258C%25AB%25E5%2590%2583%25E7%259F%25AD%25E4%25BF%25A1-%25E5%259E%2583%25E5%259C%25BE%25E7%259F%25AD%25E4%25BF%25A1%25E8%25BF%2587%25E6%25BB%25A4.ipa&security-token=CAISgQJ1q6Ft5B2yfSjIr5biCYyDvOtt46CxUHLAo0ITY7t0jY%2F4qjz2IH9OeHJsB%2BEesvQwn29Q5%2Fwalrh%2BW4NIX0rNaY5t9ZlN9wqkbtJcRlk8YfpW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTMukOO1gyllbNN%2FdipfMCeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bomid4orBXQgJv0XZaLWMo4c3NnZ%2BfbN%2FHqlOrfzx0PZ8u%2BHVi5RjGau873mWOBqAAW%2B%2F%2BZBo86qlsJV8P6XCjdrIY%2F2aPvkXvORJ%2FWSGE9Is%2FkmX3PHL%2FCIbGwDIwFYkAYQESoRAA6EpxbRCobqaLxonV3XkGNr1%2FiR%2BzxGgiNN9xjdgNRjz7rHsymUHg85TAdBGgMbbZyTMqmnMRLTXUN5j6YnZ8%2BMDPcK3gk8qWXP0 </string>
+    </dict>
+    <dict>
+     <!--KEY 测试后建议缩短-->
+     <key>kind</key>
+     <string>full-size-image</string>
+     <key>needs-shine</key>
+     <true/>
+     <key>url</key>
+     <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
+     <string>/logo_im.png</string>
+    </dict>
+    <dict>
+     <key>kind</key>
+     <string>display-image</string>
+     <key>needs-shine</key>
+     <true/>
+     <key>url</key>
+     <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
+     <string>/logo_im.png</string>
+    </dict>
+   </array>
+   <key>metadata</key>
+   <dict>
+    <key>bundle-identifier</key>
+    <!-- BundleID，就是新建app时的包名 -->
+    <string>未知包名</string>
+    <key>bundle-version</key>
+    <!-- 版本号-必变 -->
+    <string>2.0.8</string>
+    <key>kind</key>
+    <string>software</string>
+    <key>title</key>
+    <!-- 安装app时的提示信息\拼写简单 -->
+    <string>熊猫吃短信-垃圾短信过滤</string>
+   </dict>
+  </dict>
+ </array>
+</dict>
+</plist>
