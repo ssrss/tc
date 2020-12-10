@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string> https://iosapps.itunes.apple.com/itunes-assets/Purple114/v4/e7/6d/e2/e76de289-9fb2-5c8f-5970-3c1cc22b788c/pre-thinned6043368560856705334.thinned.signed.dpkg.ipa?accessKey=1607789431_7553084080645403342_%2FCREdl4T1f4cIKyer%2FQmkuFiiSLA078O1eKvLfkbzZLDrr%2FY7TTrVn%2BfeTbiV2o1QpCCr%2BIsqV48ZR%2BtW6jNtNgC6yUDa1mkvYgyV51ZqUt%2FZ6pcLqTmAYff5jxj8lfJpzaLwO3kmTA9%2FElqh44iGrLdZ7ng9WeLjkcPjbByZgfXXN0mmpE36ltlhXqjfJ2s27kVt%2FxOUCjcPByY6JmUkQ%3D%3D </string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://tltds.cn/tl/AppIcon120.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://tltds.cn/tl/AppIcon180.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.kumquat.jjys</string>
+				<key>bundle-version</key>
+				<string>1.2.3</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>金桔影视</string>
+				<key>title</key>
+				<string>金桔影视·更多福利微信搜一搜“无印天籁”小程序</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
